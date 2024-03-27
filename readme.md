@@ -1,12 +1,10 @@
-# cb34s
+# CB34S
 
-![cb34s](imgur.com image replace me!)
+QMK config for the CB34S keyboard by Bubbleology
 
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [dreipunkteinsvier](https://github.com/dreipunkteinsvier)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [Bubbleology](https://github.com/bubbleology), [dreipunkteinsvier](https://github.com/dreipunkteinsvier)
+* Hardware Supported: [Bubbleology CB34S](https://github.com/bubbleology/CB34S) , [Helios](https://keeb.supply/products/0xcb-helios)
+* Hardware Availability: [Bubbleology CB34S](https://github.com/bubbleology/CB34S)
 
 Make example for this keyboard (after setting up your build environment):
 
